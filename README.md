@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**JuanjoDev20/JuanjoDev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://avatars.githubusercontent.com/u/95863937?s=400&u=13f133f74cd1a17ccc5a47aad154e9b60d1f9bd3&v=4)
 
 - 🔭 I’m currently working on FiveM Server
 - 🌱 I’m currently learning lua
-- 👯 I’m looking to collaborate on lua
-- 💬 Ask me about lua, html
-- 📫 How to reach me: Discord: juanjo#7466
+- 📫 How to reach me: Discord: juanjo#7466 **[Discord](https://discord.gg/f3cKfFKJpf)** ♟️
 
--->
+
+![JuanjoDev20's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
