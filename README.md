@@ -8,4 +8,4 @@
 - 📫 How to reach me: Discord: juanjo#7466 **[Discord](https://discord.gg/f3cKfFKJpf)** ♟️
 
 
-![JuanjoDev20's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![JuanjoDev20's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjodev20&show_icons=true&theme=radical)
