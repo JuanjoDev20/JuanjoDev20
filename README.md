@@ -20,6 +20,6 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodev20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Juanjo's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodev20&)](https://github.com/anuraghazra/github-readme-stats)
 ![JuanjoDev20's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjodev20&show_icons=true&theme=tokyonight)
