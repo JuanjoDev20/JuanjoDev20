@@ -9,5 +9,5 @@
 - 📫 How to reach me: Discord: juanjo#7466 **[Discord](https://discord.gg/f3cKfFKJpf)** ♟️
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanjodev20&repo=github-readme-stats)](https://github.com/juanjodev20/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanjodev20&repo=github-readme-stats-1)](https://github.com/juanjodev20/github-readme-stats-1)
 ![JuanjoDev20's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjodev20&show_icons=true&theme=synthwave)
