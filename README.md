@@ -1,5 +1,5 @@
 ### Hello world! This is JuanjoDev20's 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Juanjo+Dev+20)](https://git.io/typing-svg)
 
 ![](https://avatars.githubusercontent.com/u/95863937?s=400&u=13f133f74cd1a17ccc5a47aad154e9b60d1f9bd3&v=4)
 
@@ -22,4 +22,4 @@
 
 [![Juanjo's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodev20&)](https://github.com/anuraghazra/github-readme-stats)
 ![JuanjoDev20's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjodev20&show_icons=true&theme=tokyonight)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Juanjo+Dev+20)](https://git.io/typing-svg)
+
