@@ -20,6 +20,6 @@
 <br />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Juanjo+Dev+20+;Second+line+of+text)](https://git.io/typing-svg)
 [![Juanjo's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodev20&)](https://github.com/anuraghazra/github-readme-stats)
 ![JuanjoDev20's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjodev20&show_icons=true&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Juanjo+Dev+20)](https://git.io/typing-svg)
