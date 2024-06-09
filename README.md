@@ -11,14 +11,12 @@
 
 ### Languages and Tools:
 
-<img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" alt="TypeScript">
-<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp" alt="C#">
-<img src="https://img.shields.io/badge/js-black?style=for-the-badge&logo=c-sharp" alt="JavaScript">
-<img src="https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php" alt="PHP">
-<img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
-<img src="https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby" alt="Ruby">
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
+<br />
+<br />
 
 
 [![Juanjo's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodev20&)](https://github.com/anuraghazra/github-readme-stats)
