@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on FiveM Server
 - 🌱 I’m currently learning lua
 - 📫 How to reach me: Discord: juanjo#7466 **[Discord](https://discord.gg/f3cKfFKJpf)** ♟️
-- 🌱 Currently I only give support, I do not get into more projects for now. Anything MD!
-
+- 🌱 Currently I only give support, I do not get into more projects for now. MD Closed!
+ 
 ### Languages and Tools:
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
